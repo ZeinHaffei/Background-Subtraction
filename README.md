@@ -19,7 +19,7 @@ Prints the average processing time per frame for quick algorithm comparisons.
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/your-username/video-bgsub-benchmark.git
+   git clone https://github.com/ZeinHaffei/video-bgsub-benchmark.git
    cd video-bgsub-benchmark
    ```
 
@@ -88,7 +88,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [Zein Al Haffei](https://github.com/ZeinHaffei)
 
 ---
 
